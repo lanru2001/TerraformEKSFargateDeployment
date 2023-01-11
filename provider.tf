@@ -1,3 +1,3 @@
-provider "external" {
-  version = "~> 1.2"
+provider "aws" {
+  region = "us-east-1"
 }
